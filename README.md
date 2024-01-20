@@ -6,10 +6,11 @@ This is day 7 of 100 of learning Python and creating a project in Python
 
 11/05/2023
 
-![]()
+![](https://github.com/AlanShami/Python-Day-8-caesar_cipher/blob/main/project_pic_1.png)
+![](https://github.com/AlanShami/Python-Day-8-caesar_cipher/blob/main/project_pic_2.png)
 
-- [main.py]()
-- [art.py]()
+- [main.py](https://github.com/AlanShami/Python-Day-8-caesar_cipher/blob/main/main.py)
+- [art.py](https://github.com/AlanShami/Python-Day-8-caesar_cipher/blob/main/art.py)
 
 
 # Comments:                                                                                                                                                                                  
